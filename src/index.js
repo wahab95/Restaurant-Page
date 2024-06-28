@@ -1,4 +1,1 @@
-const box = document.querySelector('.box');
-
-document.createElement('h1').textContent = 'Hello World';
-box.appendChild(h1);
+alert('it me bitch, from the under world')
