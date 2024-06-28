@@ -6,6 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production --watch"
   },
+
   "author": "Abdulwahhab",
   "license": "MIT",
   "description": "",
@@ -13,9 +14,8 @@
     "html-webpack-plugin": "^5.6.0",
     "webpack": "^5.92.1",
     "webpack-cli": "^5.1.4",
-    "wepack": "^0.0.1",
-    "wepack-cli": "^0.0.1-security"
   },
+
   "dependencies": {
     "express": "^4.19.2",
     "package-lock.json": "^1.0.0",
