@@ -14,5 +14,5 @@ const print2 = ()=>{
     })
     
 }
-//upload everything to github for device transfer
+
 print1().then(print2)
