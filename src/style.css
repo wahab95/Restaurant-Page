@@ -1,0 +1,27 @@
+header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr ;
+    background-color: #f0969657;
+    padding: 10px;
+}
+nav{
+    background-color: #f0969657;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    justify-self: space-around;
+    border: dashed 3px black;
+
+
+
+    grid-row-start: 2;
+    grid-column-start: 1;
+    grid-column-end: 3;
+
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
